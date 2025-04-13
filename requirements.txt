@@ -1,13 +1,7 @@
-# Loads env variables
+streamlit
 python-dotenv
-
-# PDF reading
 PyMuPDF
-
-# Vector DB
+sentence-transformers
 faiss-cpu
-
-# Gemini (Google AI)
+numpy
 google-generativeai
-
-
