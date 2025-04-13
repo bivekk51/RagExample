@@ -1,0 +1,13 @@
+# Loads env variables
+python-dotenv
+
+# PDF reading
+PyMuPDF
+
+# Vector DB
+faiss-cpu
+
+# Gemini (Google AI)
+google-generativeai
+
+
